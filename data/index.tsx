@@ -60,7 +60,7 @@ export const socials = [
 export const educations = [
   {
     degree: "B.Tech in Computer Science & Engg.",
-    institute: "Hooghly Engineering and Technology College, Hooghly",
+    institute: "Hooghly Engineering and Technology College",
     duration: "2017 - 21",
     score: "DGPA: 8.68",
   },
@@ -73,7 +73,7 @@ export const educations = [
   {
     degree: "ICSE (10)",
     institute: "Tribeni Tissues Vidyapith",
-    duration: "2017 - 21",
+    duration: "2015",
     score: "Percentage: 86.05",
   },
 ];
